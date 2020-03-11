@@ -1,0 +1,13 @@
+Grace 90
+Pete 5
+Lilo 65
+Lilo 20
+Marija 75
+Stich 55
+Pluto 20
+Boris 70
+Pluto 50
+Emily 15
+Harry 45
+Larry 95
+
